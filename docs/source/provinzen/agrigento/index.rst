@@ -9,6 +9,7 @@ archäologischen Stätten des antiken Griechenlands außerhalb von Griechenland.
    :maxdepth: 2
 
    agrigento-stadt
+   cattolica-eraclea
    mondello
    porto-empedocle
    sciacca
