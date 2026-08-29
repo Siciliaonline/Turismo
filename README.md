@@ -44,3 +44,5 @@ python -m http.server 8000 --directory docs/build/html
 
 Die Dokumentation ist dann unter `http://localhost:8000` erreichbar. Die
 Sprachen liegen unter `/` (Italiano), `/en/` (English) und `/de/` (Deutsch).
+In der Seitenleiste können Sprache und Dokumentationsversion über kompakte
+Dropdowns gewechselt werden.

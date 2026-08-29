@@ -1,0 +1,36 @@
+.doc-switchers {
+  margin: 1rem 0 0.75rem;
+  padding: 0.65rem 0.75rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.15);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+.doc-switcher {
+  display: block;
+  margin: 0.35rem 0;
+  color: #d9e0e6;
+  font-size: 0.78rem;
+}
+
+.doc-switcher span {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.doc-switcher__select {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0.25rem 0.35rem;
+  border: 1px solid #8797a5;
+  border-radius: 3px;
+  color: #404040;
+  background: #fff;
+  font-size: 0.78rem;
+}
+
+@media (max-width: 768px) {
+  .doc-switchers {
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+  }
+}

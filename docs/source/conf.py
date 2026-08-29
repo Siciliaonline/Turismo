@@ -33,6 +33,15 @@ html_title = "Guida turistica della Sicilia"
 html_static_path = ['_static']
 html_logo = "_static/images/Flag_of_Sicily.png"
 
+# Published documentation versions. Add a new entry when a release gets its
+# own published directory; the selector template does not need to change.
+doc_versions = [
+    {"name": "v1.0", "url": "#"},
+]
+html_context = {
+    "doc_versions": doc_versions,
+}
+
 html_theme_options = {
     "navigation_depth": 3,
     "collapse_navigation": False,
@@ -42,6 +51,9 @@ html_theme_options = {
 
 html_css_files = [
     "custom.css",
+]
+html_js_files = [
+    "selector.js",
 ]
 
 html_sidebars = {

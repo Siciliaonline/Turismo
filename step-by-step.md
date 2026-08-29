@@ -310,6 +310,9 @@ exclude_patterns = []
 
 language = "it"
 
+# Veröffentlichte Versionen für den Versionsschalter
+doc_versions = [{"name": "v1.0", "url": "#"}]
+
 html_theme = "sphinx_rtd_theme"
 html_title = "Sizilien Tourismus Führer"
 html_static_path = ["_static"]

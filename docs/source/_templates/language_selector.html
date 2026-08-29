@@ -1,10 +1,22 @@
-<div class="language-selector" role="navigation" aria-label="Language selection">
-  <p class="caption"><span class="caption-text">Lingua / Language</span></p>
-  {% set depth = pagename.count('/') %}
-  {% set prefix = '../' * depth %}
-  <ul>
-    <li><a href="{{ prefix }}{{ pagename }}.html">Italiano</a></li>
-    <li><a href="{{ prefix }}en/{{ pagename }}.html">English</a></li>
-    <li><a href="{{ prefix }}de/{{ pagename }}.html">Deutsch</a></li>
-  </ul>
+{% set depth = pagename.count('/') %}
+{% set output_root = '../' * depth %}
+{% set site_root = '../' if language != 'it' else '' %}
+<div class="doc-switchers" role="navigation" aria-label="Documentation options">
+  <label class="doc-switcher">
+    <span>Lingua / Language</span>
+    <select class="doc-switcher__select" aria-label="Lingua / Language">
+      <option value="{{ output_root }}{{ site_root }}{{ pagename }}.html"{% if language == 'it' %} selected{% endif %}>Italiano</option>
+      <option value="{{ output_root }}{% if language == 'it' %}en/{% else %}{{ site_root }}en/{% endif %}{{ pagename }}.html"{% if language == 'en' %} selected{% endif %}>English</option>
+      <option value="{{ output_root }}{% if language == 'it' %}de/{% else %}{{ site_root }}de/{% endif %}{{ pagename }}.html"{% if language == 'de' %} selected{% endif %}>Deutsch</option>
+    </select>
+  </label>
+
+  <label class="doc-switcher">
+    <span>Version</span>
+    <select class="doc-switcher__select" aria-label="Version">
+      {% for version in doc_versions|default([]) %}
+      <option value="{{ version.url }}"{% if loop.first %} selected{% endif %}>{{ version.name }}</option>
+      {% endfor %}
+    </select>
+  </label>
 </div>
