@@ -5,12 +5,22 @@ on:
     branches:
       - main
 
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
+    - name: Checkout
+      uses: actions/checkout@v4
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -26,22 +36,11 @@ jobs:
         cd docs
         sphinx-build -b html source build/html
 
-    - name: Deploy to GitHub Pages
-      uses: actions/upload-artifact@v3
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
       with:
-        name: documentation
-        path: docs/build/html/
+        path: 'docs/build/html/'
 
-    - name: Configure Git
-      run: |
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
-        git config --global user.name "github-actions[bot]"
-
-    - name: Push to gh-pages branch
-      run: |
-        cd docs/build/html
-        git init
-        git add .
-        git commit -m "Update documentation build"
-        git push --force https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:gh-pages
-      continue-on-error: true
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
