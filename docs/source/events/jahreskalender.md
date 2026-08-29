@@ -1,105 +1,105 @@
-# Jahreskalender - Sizilien Tourismus Events
+# Calendario annuale - Eventi turistici in Sicilia
 
-Hier findest du eine Übersicht der wichtigsten Veranstaltungen und Feste in Sizilien 
-während des Jahres.
+Una panoramica dei principali eventi e delle feste che si svolgono in Sicilia
+durante l'anno.
 
-## Januar
+## Gennaio
 
-### Neue Jährlich Events
-- Besinnliche Zeit nach den Weihnachtsfeiertagen
-- Neue Jährlich gibt es verschiedene lokale Märkte
+### Eventi ricorrenti
+- Periodo tranquillo dopo le festività natalizie
+- Diversi mercati locali durante il mese
 
-## Februar
+## Febbraio
 
-### Karneval
-- Überall in Sizilien finden Karnevalsfeiern statt
-- Besonders bekannt: Karneval von Acireale (Catania)
-- Farbenprächtige Umzüge und Veranstaltungen
+### Carnevale
+- Festeggiamenti in tutta la Sicilia
+- Particolarmente famoso il Carnevale di Acireale (Catania)
+- Sfilate ed eventi colorati
 
-## März
+## Marzo
 
-### Frühling auf Sizilien
-- Blütezeit für Zitronenhaine und Mandelplantagen
-- Perfekt für Naturwanderungen
+### Primavera in Sicilia
+- Fioritura degli agrumeti e dei mandorleti
+- Periodo perfetto per le escursioni nella natura
 
-## April
+## Aprile
 
-### Ostern
-- Religiöse Feierlichkeiten in allen Gemeinden
-- Prozessionen und traditionelle Festessen
+### Pasqua
+- Celebrazioni religiose in tutti i comuni
+- Processioni e pranzi tradizionali
 
 ### Festa di San Giorgio (Modica, Ragusa)
-- Überwältigende Prozessionen mit Barockkirchen
+- Suggestive processioni tra le chiese barocche
 
-## Mai
+## Maggio
 
 ### Maggio Musicale Fiorentino
-- Musikfestivals in größeren Städten
-- Open-Air Veranstaltungen
+- Festival musicali nelle città più grandi
+- Eventi all'aperto
 
-### Festa di Santa Lucia (Syracuse)
-- Volksfest zu Ehren der Patronin der Stadt
+### Festa di Santa Lucia (Siracusa)
+- Festa popolare in onore della patrona della città
 
-## Juni
+## Giugno
 
-### Sommeranfang
-- Viele Festivals und kulturelle Events
-- Perfekte Strandzeit
+### Inizio dell'estate
+- Numerosi festival ed eventi culturali
+- Periodo ideale per il mare
 
 ### Festa di San Vito Lo Capo (Trapani)
-- Volksfest am Strand mit Musik und Tanz
+- Festa sulla spiaggia con musica e danze
 
-## Juli
+## Luglio
 
-### Peak Season
-- Hochsaison für Badetouren
-- Viele lokale Musik- und Kunstfestivals
+### Alta stagione
+- Alta stagione per le vacanze al mare
+- Numerosi festival locali di musica e arte
 
 ### Concerti sotto le stelle
-- Open-Air Konzerte unter dem Sternenhimmel
+- Concerti all'aperto sotto il cielo stellato
 
-## August
+## Agosto
 
-### Ferragosto (15. August)
-- Traditionelles italienisches Sommerurlaubfest
-- Kulturelle Events überall
+### Ferragosto (15 agosto)
+- Tradizionale festa italiana delle vacanze estive
+- Eventi culturali in tutta l'isola
 
-### Mittelmeer-Festivals
-- Musiktage und kulturelle Veranstaltungen
+### Festival del Mediterraneo
+- Rassegne musicali ed eventi culturali
 
-## September
+## Settembre
 
-### Ende der Hauptsaison
-- Perfekte Bedingungen zum Wandern
-- Weinfeste (Weinlese)
+### Fine dell'alta stagione
+- Condizioni perfette per le escursioni
+- Feste del vino durante la vendemmia
 
-## Oktober
+## Ottobre
 
-### Herbst Wanderungen
-- Ideale Temperaturen für Erkundungen
-- Olivenernte beginnt
+### Escursioni autunnali
+- Temperature ideali per visitare l'isola
+- Inizia la raccolta delle olive
 
-## November
+## Novembre
 
-### Ruhigere Zeit
-- Weniger Touristen, authentischere Erlebnisse
-- Kulturelle Veranstaltungen in Städten
+### Periodo più tranquillo
+- Meno turisti ed esperienze più autentiche
+- Eventi culturali nelle città
 
-## Dezember
+## Dicembre
 
-### Weihnachtszeit
-- Traditionelle Weihnachtsmärkte in größeren Städten
-- Historische Krippen-Ausstellungen
-- Weihnachtsbeleuchtung und festliche Dekoration
+### Periodo natalizio
+- Mercatini di Natale tradizionali nelle città più grandi
+- Mostre di presepi storici
+- Illuminazioni e decorazioni festive
 
-## Wichtige Hinweise
+## Informazioni importanti
 
-- **Termine können variieren** - Überprüfe aktuelle Veranstaltungskalender vor deinem Besuch
-- **Lokale Feste** - Jede Stadt hat ihre eigenen Patronatsfeste
-- **Saisonabhängige Events** - Viele Events sind wetterabhängig
-- **Ticketverkauf** - Größere Events werden oft online vorverkauft
+- **Le date possono variare** - Controlla i calendari aggiornati prima della visita
+- **Feste locali** - Ogni città ha le proprie feste patronali
+- **Eventi stagionali** - Molti eventi dipendono dal meteo
+- **Biglietti** - Per i grandi eventi spesso è possibile acquistare i biglietti online in anticipo
 
-## Weitere Informationen
+## Ulteriori informazioni
 
-Für detaillierte Informationen zu spezifischen Events in einzelnen Provinzen, 
-besuche bitte die jeweiligen Provinzseiten.
+Per informazioni dettagliate sugli eventi nelle singole province, consulta le
+relative pagine provinciali.

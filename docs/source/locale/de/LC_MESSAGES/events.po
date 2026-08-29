@@ -1,0 +1,382 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Dein Name
+# This file is distributed under the same license as the Sizilien Tourismus
+# Führer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sizilien Tourismus Führer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-29 16:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: de <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:1
+msgid "Calendario annuale - Eventi turistici in Sicilia"
+msgstr "Jahreskalender - Touristische Veranstaltungen in Sizilien"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:3
+msgid ""
+"Una panoramica dei principali eventi e delle feste che si svolgono in "
+"Sicilia durante l'anno."
+msgstr ""
+"Ein Überblick über die wichtigsten Veranstaltungen und Festivals, die das "
+"ganze Jahr über auf Sizilien stattfinden."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:6
+msgid "Gennaio"
+msgstr "Januar"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:8
+msgid "Eventi ricorrenti"
+msgstr "Eventi ricorrenti"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:9
+msgid "Periodo tranquillo dopo le festività natalizie"
+msgstr "Ruhige Zeit nach den Weihnachtsferien"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:10
+msgid "Diversi mercati locali durante il mese"
+msgstr "Diversi mercati locali durante il mese"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:12
+msgid "Febbraio"
+msgstr "Febbraio"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:14
+msgid "Carnevale"
+msgstr "Carnevale"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:15
+msgid "Festeggiamenti in tutta la Sicilia"
+msgstr "Feierlichkeiten in ganz Sizilien"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:16
+msgid "Particolarmente famoso il Carnevale di Acireale (Catania)"
+msgstr "Besonders berühmt ist der Karneval von Acireale (Catania)."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:17
+msgid "Sfilate ed eventi colorati"
+msgstr "Bunte Paraden und Veranstaltungen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:19
+msgid "Marzo"
+msgstr "Marsch"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:21
+msgid "Primavera in Sicilia"
+msgstr "Frühling auf Sizilien"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:22
+msgid "Fioritura degli agrumeti e dei mandorleti"
+msgstr "Blüte von Zitrus- und Mandelhainen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:23
+msgid "Periodo perfetto per le escursioni nella natura"
+msgstr "Periodo perfetto per le escursioni nella natura"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:25
+msgid "Aprile"
+msgstr "April"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:27
+msgid "Pasqua"
+msgstr "Ostern"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:28
+msgid "Celebrazioni religiose in tutti i comuni"
+msgstr "Religiöse Feiern in allen Gemeinden"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:29
+msgid "Processioni e pranzi tradizionali"
+msgstr "Prozessionen und traditionelle Mittagessen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:31
+msgid "Festa di San Giorgio (Modica, Ragusa)"
+msgstr "Fest des Heiligen Georg (Modica, Ragusa)"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:32
+msgid "Suggestive processioni tra le chiese barocche"
+msgstr "Eindrucksvolle Prozessionen zwischen den Barockkirchen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:34
+msgid "Maggio"
+msgstr "Mai"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:36
+msgid "Maggio Musicale Fiorentino"
+msgstr "Maggio Musicale Fiorentino"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:37
+msgid "Festival musicali nelle città più grandi"
+msgstr "Musikfestivals in größeren Städten"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:38
+msgid "Eventi all'aperto"
+msgstr "Outdoor-Events"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:40
+msgid "Festa di Santa Lucia (Siracusa)"
+msgstr "Fest der Heiligen Lucia (Syrakus)"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:41
+msgid "Festa popolare in onore della patrona della città"
+msgstr "Volksfest zu Ehren des Schutzpatrons der Stadt"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:43
+msgid "Giugno"
+msgstr "Juni"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:45
+msgid "Inizio dell'estate"
+msgstr "Beginn des Sommers"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:46
+msgid "Numerosi festival ed eventi culturali"
+msgstr "Zahlreiche Festivals und kulturelle Veranstaltungen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:47
+msgid "Periodo ideale per il mare"
+msgstr "Ideale Zeit für das Meer"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:49
+msgid "Festa di San Vito Lo Capo (Trapani)"
+msgstr "Fest von San Vito Lo Capo (Trapani)"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:50
+msgid "Festa sulla spiaggia con musica e danze"
+msgstr "Party am Strand mit Musik und Tanz"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:52
+msgid "Luglio"
+msgstr "Juli"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:54
+msgid "Alta stagione"
+msgstr "Hochsaison"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:55
+msgid "Alta stagione per le vacanze al mare"
+msgstr "Hochsaison für Strandurlaube"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:56
+msgid "Numerosi festival locali di musica e arte"
+msgstr "Zahlreiche lokale Musik- und Kunstfestivals"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:58
+msgid "Concerti sotto le stelle"
+msgstr "Konzerte unter den Sternen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:59
+msgid "Concerti all'aperto sotto il cielo stellato"
+msgstr "Open-Air-Konzerte unter dem Sternenhimmel"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:61
+msgid "Agosto"
+msgstr "August"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:63
+msgid "Ferragosto (15 agosto)"
+msgstr "Ferragosto (15. August)"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:64
+msgid "Tradizionale festa italiana delle vacanze estive"
+msgstr "Traditionelle italienische Sommerferienfeier"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:65
+msgid "Eventi culturali in tutta l'isola"
+msgstr "Kulturelle Veranstaltungen auf der ganzen Insel"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:67
+msgid "Festival del Mediterraneo"
+msgstr "Mittelmeerfest"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:68
+msgid "Rassegne musicali ed eventi culturali"
+msgstr "Musikfestivals und kulturelle Veranstaltungen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:70
+msgid "Settembre"
+msgstr "September"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:72
+msgid "Fine dell'alta stagione"
+msgstr "Ende der Hochsaison"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:73
+msgid "Condizioni perfette per le escursioni"
+msgstr "Perfekte Bedingungen zum Wandern"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:74
+msgid "Feste del vino durante la vendemmia"
+msgstr "Weinfeste während der Weinlese"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:76
+msgid "Ottobre"
+msgstr "Oktober"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:78
+msgid "Escursioni autunnali"
+msgstr "Herbstausflüge"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:79
+msgid "Temperature ideali per visitare l'isola"
+msgstr "Ideale Temperaturen für einen Inselbesuch"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:80
+msgid "Inizia la raccolta delle olive"
+msgstr "Die Olivenernte beginnt"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:82
+msgid "Novembre"
+msgstr "November"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:84
+msgid "Periodo più tranquillo"
+msgstr "Ruhigere Zeit"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:85
+msgid "Meno turisti ed esperienze più autentiche"
+msgstr "Weniger Touristen und authentischere Erlebnisse"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:86
+msgid "Eventi culturali nelle città"
+msgstr "Kulturveranstaltungen in Städten"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:88
+msgid "Dicembre"
+msgstr "Dezember"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:90
+msgid "Periodo natalizio"
+msgstr "Periodo natalizio"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:91
+msgid "Mercatini di Natale tradizionali nelle città più grandi"
+msgstr "Traditionelle Weihnachtsmärkte in den größeren Städten"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:92
+msgid "Mostre di presepi storici"
+msgstr "Mostre di presepi storici"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:93
+msgid "Illuminazioni e decorazioni festive"
+msgstr "Illuminazioni e decorazioni festive"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:95
+msgid "Informazioni importanti"
+msgstr "Wichtige Informationen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:97
+msgid ""
+"**Le date possono variare** - Controlla i calendari aggiornati prima della "
+"visita"
+msgstr ""
+"**Le date possono variare** - Controlla i calendari aggiornati prima della "
+"visita"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:98
+msgid "**Feste locali** - Ogni città ha le proprie feste patronali"
+msgstr "**Feste locali** - Ogni città ha le proprie feste patronali"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:99
+msgid "**Eventi stagionali** - Molti eventi dipendono dal meteo"
+msgstr "**Eventi stagionali** - Molti eventi dipendono dal meteo"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:100
+msgid ""
+"**Biglietti** - Per i grandi eventi spesso è possibile acquistare i "
+"biglietti online in anticipo"
+msgstr ""
+"**Biglietti** - Per i grandi eventi spesso è possibile acquistare i "
+"biglietti online in anticipo"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:102
+msgid "Ulteriori informazioni"
+msgstr "Ulteriori informazioni"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/events/jahreskalender.md:104
+msgid ""
+"Per informazioni dettagliate sugli eventi nelle singole province, consulta "
+"le relative pagine provinciali."
+msgstr ""
+"Detaillierte Informationen zu Veranstaltungen in den einzelnen Provinzen "
+"finden Sie auf den jeweiligen Provinzseiten."

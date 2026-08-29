@@ -1,0 +1,10 @@
+<div class="language-selector" role="navigation" aria-label="Language selection">
+  <p class="caption"><span class="caption-text">Lingua / Language</span></p>
+  {% set depth = pagename.count('/') %}
+  {% set prefix = '../' * depth %}
+  <ul>
+    <li><a href="{{ prefix }}{{ pagename }}.html">Italiano</a></li>
+    <li><a href="{{ prefix }}en/{{ pagename }}.html">English</a></li>
+    <li><a href="{{ prefix }}de/{{ pagename }}.html">Deutsch</a></li>
+  </ul>
+</div>

@@ -183,7 +183,7 @@ Separate source and build directories: yes
 Project name: Sizilien Tourismus Führer
 Author name: Dein Name
 Project release: 1.0
-Project language: de
+Project language: it
 ```
 
 Bei einer getrennten Struktur liegen die Quellen danach normalerweise unter:
@@ -308,7 +308,7 @@ extensions = [
 templates_path = ["_templates"]
 exclude_patterns = []
 
-language = "de"
+language = "it"
 
 html_theme = "sphinx_rtd_theme"
 html_title = "Sizilien Tourismus Führer"

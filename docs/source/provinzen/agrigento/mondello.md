@@ -1,45 +1,45 @@
 # Mondello
 
-Mondello ist eine malerische Küstenstadt in der Provinz Agrigento mit 
-wunderschönen Stränden und einer entspannten Atmosphäre.
+Mondello è una località costiera pittoresca della provincia di Agrigento, con
+spiagge splendide e un'atmosfera rilassata.
 
-## Überblick
+## Panoramica
 
-Die Stadt liegt etwa 25 km südlich von Agrigento und ist bekannt für ihre 
-traumhaften Sandstrände und das kristallklare Mittelmeer.
+La località si trova circa 25 km a sud di Agrigento ed è nota per le sue
+spiagge sabbiose e il Mediterraneo cristallino.
 
-## Strände
+## Spiagge
 
 ### Spiaggia di Mondello
 
-Der Hauptstrand erstreckt sich über mehrere Kilometer und bietet:
-- Feiner, heller Sand
-- Flaches, seichtes Wasser (ideal für Familien)
-- Zahlreiche Strandlokale (Chiringuitos)
-- Wassersportmöglichkeiten
+La spiaggia principale si estende per diversi chilometri e offre:
+- sabbia fine e chiara
+- acqua bassa e poco profonda, ideale per le famiglie
+- numerosi locali sulla spiaggia (chiringuitos)
+- possibilità di praticare sport acquatici
 
-### Weitere Strände
+### Altre spiagge
 
-- **Spiaggia di Porto** - südlich des Hauptstrandes
-- **Cala Bianca** - versteckter, weniger überlaufener Strand
+- **Spiaggia di Porto** - a sud della spiaggia principale
+- **Cala Bianca** - spiaggia nascosta e meno affollata
 
-## Wassersport
+## Sport acquatici
 
 - Windsurfen
 - Kitesurfen
 - Schnorcheln
 - Bootstouren
 
-## Lokale Gastronomie
+## Gastronomia locale
 
-Die Küche Mondellos ist geprägt von frischen Meeresfrüchten.
+La cucina di Mondello è caratterizzata da frutti di mare freschi.
 
 - **Pasta al Riccio di Mare** - Pasta mit Seeigel
 - **Fritto di Pesce** - gemischte Fischspezialitäten
 - **Orata alla Griglia** - gegrillte Dorade
 
-## Praktische Informationen
+## Informazioni pratiche
 
-- **Anfahrt:** Auto oder lokale Busverbindungen
-- **Beste Reisezeit:** Juni-September
-- **Übernachtung:** Kleine Hotels und Ferienhäuser
+- **Come arrivare:** auto o autobus locali
+- **Periodo migliore:** giugno-settembre
+- **Pernottamento:** piccoli hotel e case vacanza

@@ -16,7 +16,7 @@ Bearbeite den Inhalt in Markdown und baue die Webseite lokal:
 
 ```bash
 source .venv/bin/activate
-sphinx-build -b html docs/source docs/build/html
+make -C docs html-all
 ```
 
 Starte einen lokalen Server zur Vorschau:
@@ -80,7 +80,7 @@ Allgemeine Informationen.
 4. **Baue die Dokumentation lokal:**
 
 ```bash
-sphinx-build -b html docs/source docs/build/html
+make -C docs html-all
 ```
 
 Die neue Seite sollte jetzt in der Navigation sichtbar sein.
@@ -191,7 +191,7 @@ Der GitHub-Actions-Workflow baut automatisch die Webseite neu und veröffentlich
 ### Build schlägt fehl
 
 ```bash
-sphinx-build -W -b html docs/source docs/build/html
+make -C docs html-all SPHINXOPTS=-W
 ```
 
 Die `-W` Option behandelt Warnungen als Fehler und zeigt problematische Links.

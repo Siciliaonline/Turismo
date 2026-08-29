@@ -1,11 +1,11 @@
 Ragusa
 =======
 
-Die Provinz Ragusa liegt auf Sizilien.
+La provincia di Ragusa si trova in Sicilia.
 
 .. note::
 
-   Diese Provinz wird in Kürze vollständig dokumentiert. 
-   Weitere Informationen folgen bald.
+   Questa provincia sarà documentata completamente prossimamente.
+   Ulteriori informazioni saranno disponibili a breve.
 
-Coming Soon - Inhalt wird hinzugefügt.
+Prossimamente - I contenuti saranno aggiunti.

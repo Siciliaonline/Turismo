@@ -1,3 +1,3 @@
 # Sciacca
 
-Weitere Informationen folgen in Kürze.
+Ulteriori informazioni saranno disponibili prossimamente.

@@ -1,27 +1,25 @@
-.. Sizilien Tourismus Führer documentation master file, created by
-   sphinx-quickstart on Sat Aug 29 15:37:26 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. Guida turistica della Sicilia
 
-Sizilien Tourismus Führer
-=========================
+Guida turistica della Sicilia
+=============================
 
-Willkommen zum umfassenden Tourismus-Handbuch für die italienische Insel Sizilien.
+Benvenuti nella guida turistica completa dell'isola italiana della Sicilia.
 
-Diese Webseite dokumentiert die neun Provinzen und ihre wichtigsten Städte, 
-Sehenswürdigkeiten, lokale Gastronomie und regionale Veranstaltungen.
+Questo sito raccoglie informazioni sulle nove province, sulle città principali,
+sulle attrazioni, sulla gastronomia locale e sugli eventi regionali.
 
 .. note::
 
-   Die Dokumentation wird kontinuierlich erweitert. Die Provinz Agrigento ist 
-   derzeit vollständig dokumentiert. Weitere Provinzen werden in Kürze hinzugefügt.
+   La documentazione è in continua evoluzione. La provincia di Agrigento è
+   attualmente documentata in modo completo; le altre province saranno aggiunte
+   prossimamente.
 
-Provinzen Siziliens
--------------------
+Province della Sicilia
+----------------------
 
 .. toctree::
    :maxdepth: 2
-   :caption: Provinzen:
+   :caption: Province:
 
    provinzen/agrigento/index
    provinzen/caltanissetta/index
@@ -33,15 +31,14 @@ Provinzen Siziliens
    provinzen/siracusa/index
    provinzen/trapani/index
 
-Weitere Bereiche
-----------------
+Altre sezioni
+-------------
 
 .. toctree::
    :maxdepth: 1
-   :caption: Zusätzlich:
+   :caption: Approfondimenti:
 
    events/jahreskalender
 
 * :ref:`genindex`
 * :ref:`search`
-

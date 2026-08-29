@@ -1,60 +1,59 @@
-# Agrigento-Stadt
+# Agrigento città
 
-Agrigento ist die Hauptstadt der gleichnamigen Provinz und eine der ältesten Städte Europas.
+Agrigento è il capoluogo dell'omonima provincia e una delle città più antiche d'Europa.
 
-## Überblick
+## Panoramica
 
-Die Stadt liegt auf einem Hügel und bietet atemberaubende Ausblicke über das 
-Tal der Tempel. Mit etwa 60.000 Einwohnern ist sie das Zentrum der Region.
+La città sorge su una collina e offre viste spettacolari sulla Valle dei Templi.
+Con circa 60.000 abitanti, è il centro della regione.
 
-## Tal der Tempel (Valle dei Templi)
+## Valle dei Templi
 
-Das Tal der Tempel ist die Hauptattraktion Agritentos und zählt zum 
-UNESCO-Weltkulturerbe.
+La Valle dei Templi è la principale attrazione di Agrigento ed è patrimonio
+mondiale dell'UNESCO.
 
-### Wichtigste Tempel
+### Templi principali
 
-- **Tempel der Concordia** - einer der besterhaltenen griechischen Tempel
-- **Tempel des Dioskuren** - auch als Tempel der Zwillinge bekannt
-- **Tempel des Olympischen Zeus** - einst der größte Tempel der antiken Welt
-- **Tempel der Hera** - östlichster Tempel der Anlage
+- **Tempio della Concordia** - uno dei templi greci meglio conservati
+- **Tempio dei Dioscuri** - noto anche come tempio dei Gemelli
+- **Tempio di Zeus Olimpico** - un tempo il tempio più grande del mondo antico
+- **Tempio di Hera** - il tempio più orientale del complesso
 
-### Öffnungszeiten
+### Orari di apertura
 
-- täglich 8:30 - 19:00 Uhr
-- Letzter Einlass: 18:00 Uhr
+- tutti i giorni, 8:30 - 19:00
+- Ultimo ingresso: 18:00
 
-### Eintritt
+### Biglietti
 
-- Erwachsene: ca. 10 EUR
-- Ermäßigt: ca. 5 EUR
+- Adulti: circa 10 EUR
+- Ridotto: circa 5 EUR
 
-## Altstadt (Centro Storico)
+## Centro storico
 
-Die Altstadt liegt oberhalb des Tempeltals und ist geprägt von barocken 
-Kirchen und engen, verwundenen Gassen.
+Il centro storico si trova sopra la valle dei templi ed è caratterizzato da
+chiese barocche e vicoli stretti e tortuosi.
 
-### Sehenswürdigkeiten
+### Attrazioni
 
-- **Kathedrale von San Gerlando** - monumentale Kirche im barocken Stil
-- **Kirche von Santo Spirito** - gotische Architektur
-- **Palazzo Politi** - prächtige Adelsvilla
+- **Cattedrale di San Gerlando** - chiesa monumentale in stile barocco
+- **Chiesa di Santo Spirito** - architettura gotica
+- **Palazzo Politi** - elegante villa nobiliare
 
-## Lokale Gastronomie
+## Gastronomia locale
 
-Die sizilianische Küche Agritentos ist von arabischen, normannischen und 
-italienischen Einflüssen geprägt.
+La cucina agrigentina è caratterizzata da influenze arabe, normanne e italiane.
 
-### Typische Gerichte
+### Piatti tipici
 
-- **Arancini** - gefüllte Reisbällchen
-- **Pasta alla Norma** - Pasta mit Auberginen und Tomaten
-- **Granita con Brioche** - Eissorbet mit süßlichem Brötchen (zum Frühstück)
-- **Caponata** - süß-saure Gemüsemischung
-- **Fritto Misto** - gemischte Fischspezialitäten
+- **Arancini** - polpette di riso ripiene
+- **Pasta alla Norma** - pasta con melanzane e pomodoro
+- **Granita con brioche** - sorbetto gelato con brioche (a colazione)
+- **Caponata** - misto di verdure in agrodolce
+- **Fritto misto** - specialità di pesce misto
 
-## Praktische Informationen
+## Informazioni pratiche
 
-- **Anfahrt:** Bus, Auto oder Zugverbindung nach Agrigento-Zentrum
-- **Beste Reisezeit:** April-Juni und September-Oktober
-- **Sprache:** Italienisch, einige Englischsprachler in touristischen Bereichen
+- **Come arrivare:** autobus, auto o treno fino al centro di Agrigento
+- **Periodo migliore:** aprile-giugno e settembre-ottobre
+- **Lingua:** italiano; nelle zone turistiche si parla anche un po' di inglese

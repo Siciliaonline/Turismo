@@ -1,0 +1,586 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Dein Name
+# This file is distributed under the same license as the Sizilien Tourismus
+# Führer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sizilien Tourismus Führer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-29 16:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:1
+msgid "Agrigento città"
+msgstr "Agrigento city"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:3
+msgid ""
+"Agrigento è il capoluogo dell'omonima provincia e una delle città più "
+"antiche d'Europa."
+msgstr ""
+"Agrigento is the capital of the province of the same name and one of the "
+"oldest cities in Europe."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:5
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:6
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:19
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:6
+msgid "Panoramica"
+msgstr "Overview"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:7
+msgid ""
+"La città sorge su una collina e offre viste spettacolari sulla Valle dei "
+"Templi. Con circa 60.000 abitanti, è il centro della regione."
+msgstr ""
+"The city sits on a hill and offers spectacular views of the Valley of the "
+"Temples. With around 60,000 inhabitants, it is the center of the region."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:10
+msgid "Valle dei Templi"
+msgstr "Valley of the Temples"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:12
+msgid ""
+"La Valle dei Templi è la principale attrazione di Agrigento ed è patrimonio "
+"mondiale dell'UNESCO."
+msgstr ""
+"The Valley of the Temples is the main attraction of Agrigento and is a "
+"UNESCO World Heritage Site."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:15
+msgid "Templi principali"
+msgstr "Main temples"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:17
+msgid "**Tempio della Concordia** - uno dei templi greci meglio conservati"
+msgstr "**Temple of Concord** - one of the best preserved Greek temples"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:18
+msgid "**Tempio dei Dioscuri** - noto anche come tempio dei Gemelli"
+msgstr "**Temple of the Dioscuri** - also known as the temple of the Gemini"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:19
+msgid ""
+"**Tempio di Zeus Olimpico** - un tempo il tempio più grande del mondo antico"
+msgstr ""
+"**Temple of Olympian Zeus** - once the largest temple in the ancient world"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:20
+msgid "**Tempio di Hera** - il tempio più orientale del complesso"
+msgstr "**Temple of Hera** - the easternmost temple of the complex"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:22
+msgid "Orari di apertura"
+msgstr "Orari di apertura"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:24
+msgid "tutti i giorni, 8:30 - 19:00"
+msgstr "tutti i giorni, 8:30 - 19:00"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:25
+msgid "Ultimo ingresso: 18:00"
+msgstr "Last entry: 6pm"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:27
+msgid "Biglietti"
+msgstr "Tickets"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:29
+msgid "Adulti: circa 10 EUR"
+msgstr "Adulti: circa 10 EUR"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:30
+msgid "Ridotto: circa 5 EUR"
+msgstr "Ridotto: circa 5 EUR"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:32
+msgid "Centro storico"
+msgstr "Centro storico"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:34
+msgid ""
+"Il centro storico si trova sopra la valle dei templi ed è caratterizzato da "
+"chiese barocche e vicoli stretti e tortuosi."
+msgstr ""
+"Il centro storico si trova sopra la valle dei templi ed è caratterizzato da "
+"chiese barocche e vicoli stretti e tortuosi."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:37
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:11
+msgid "Attrazioni"
+msgstr "Attrazioni"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:39
+msgid "**Cattedrale di San Gerlando** - chiesa monumentale in stile barocco"
+msgstr "**Cattedrale di San Gerlando** - chiesa monumentale in stile barocco"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:40
+msgid "**Chiesa di Santo Spirito** - architettura gotica"
+msgstr "**Church of Santo Spirito** - Gothic architecture"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:41
+msgid "**Palazzo Politi** - elegante villa nobiliare"
+msgstr "**Palazzo Politi** - elegante villa nobiliare"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:43
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:33
+msgid "Gastronomia locale"
+msgstr "Gastronomia locale"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:45
+msgid ""
+"La cucina agrigentina è caratterizzata da influenze arabe, normanne e "
+"italiane."
+msgstr ""
+"La cucina agrigentina è caratterizzata da influenze arabe, normanne e "
+"italiane."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:47
+msgid "Piatti tipici"
+msgstr "Piatti tipici"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:49
+msgid "**Arancini** - polpette di riso ripiene"
+msgstr "**Arancini** - polpette di riso ripiene"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:50
+msgid "**Pasta alla Norma** - pasta con melanzane e pomodoro"
+msgstr "**Pasta alla Norma** - pasta con melanzane e pomodoro"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:51
+msgid "**Granita con brioche** - sorbetto gelato con brioche (a colazione)"
+msgstr "**Granita con brioche** - sorbetto gelato con brioche (a colazione)"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:52
+msgid "**Caponata** - misto di verdure in agrodolce"
+msgstr "**Caponata** - misto di verdure in agrodolce"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:53
+msgid "**Fritto misto** - specialità di pesce misto"
+msgstr "**Fritto misto** - specialità di pesce misto"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:55
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:21
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:41
+msgid "Informazioni pratiche"
+msgstr "Informazioni pratiche"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:57
+msgid "**Come arrivare:** autobus, auto o treno fino al centro di Agrigento"
+msgstr "**Come arrivare:** autobus, auto o treno fino al centro di Agrigento"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:58
+msgid "**Periodo migliore:** aprile-giugno e settembre-ottobre"
+msgstr "**Best period:** April-June and September-October"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/agrigento-stadt.md:59
+msgid ""
+"**Lingua:** italiano; nelle zone turistiche si parla anche un po' di inglese"
+msgstr ""
+"**Lingua:** italiano; nelle zone turistiche si parla anche un po' di inglese"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:1
+msgid "Cattolica Eraclea"
+msgstr "Cattolica Eraclea"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:3
+msgid ""
+"Cattolica Eraclea è un borgo affascinante sulla costa meridionale della "
+"Sicilia, in provincia di Agrigento."
+msgstr ""
+"Cattolica Eraclea è un borgo affascinante sulla costa meridionale della "
+"Sicilia, in provincia di Agrigento."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:8
+msgid ""
+"Il piccolo borgo pittoresco si trova tra Porto Empedocle e Sciacca e offre "
+"una splendida vista sul mare."
+msgstr ""
+"Il piccolo borgo pittoresco si trova tra Porto Empedocle e Sciacca e offre "
+"una splendida vista sul mare."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:13
+msgid "Costa incantevole con calette naturali"
+msgstr "Costa incantevole con calette naturali"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:14
+msgid "Centro storico con vicoli stretti"
+msgstr "Centro storico con vicoli stretti"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:15
+msgid "Cultura locale legata alla pesca"
+msgstr "Cultura locale legata alla pesca"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:17
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:11
+msgid "Spiagge"
+msgstr "Spiagge"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:19
+msgid "Il limpido Mediterraneo invita a nuotare e praticare sport acquatici."
+msgstr "Il limpido Mediterraneo invita a nuotare e praticare sport acquatici."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:23
+msgid "**Periodo migliore:** maggio - ottobre"
+msgstr "**Periodo migliore:** maggio - ottobre"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:24
+msgid "**Distanza da Agrigento:** circa 40 km"
+msgstr "**Distanza da Agrigento:** circa 40 km"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/cattolica-eraclea.md:25
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:43
+msgid "**Come arrivare:** auto o autobus locali"
+msgstr "**Come arrivare:** auto o autobus locali"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:2
+msgid "Agrigento"
+msgstr "Agrigento"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:4
+msgid ""
+"La provincia di Agrigento si trova nel sud-ovest della Sicilia ed è famosa "
+"per la Valle dei Templi, uno dei più importanti siti archeologici "
+"dell'antica Grecia fuori dal territorio greco."
+msgstr ""
+"La provincia di Agrigento si trova nel sud-ovest della Sicilia ed è famosa "
+"per la Valle dei Templi, uno dei più importanti siti archeologici "
+"dell'antica Grecia fuori dal territorio greco."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:21
+msgid "**Capoluogo:** Agrigento"
+msgstr "**Capoluogo:** Agrigento"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:22
+msgid "**Attrazione principale:** Valle dei Templi (patrimonio UNESCO)"
+msgstr "**Attrazione principale:** Valle dei Templi (patrimonio UNESCO)"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:23
+msgid "**Superficie:** 3.544 km²"
+msgstr "**Superficie:** 3.544 km²"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:24
+msgid "**Popolazione:** circa 430.000 abitanti"
+msgstr "**Popolazione:** circa 430.000 abitanti"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/index.rst:25
+msgid "**Clima:** mediterraneo, estati calde e inverni miti"
+msgstr "**Clima:** mediterraneo, estati calde e inverni miti"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:1
+msgid "Mondello"
+msgstr "Mondello"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:3
+msgid ""
+"Mondello è una località costiera pittoresca della provincia di Agrigento, "
+"con spiagge splendide e un'atmosfera rilassata."
+msgstr ""
+"Mondello è una località costiera pittoresca della provincia di Agrigento, "
+"con spiagge splendide e un'atmosfera rilassata."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:8
+msgid ""
+"La località si trova circa 25 km a sud di Agrigento ed è nota per le sue "
+"spiagge sabbiose e il Mediterraneo cristallino."
+msgstr ""
+"La località si trova circa 25 km a sud di Agrigento ed è nota per le sue "
+"spiagge sabbiose e il Mediterraneo cristallino."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:13
+msgid "Spiaggia di Mondello"
+msgstr "Spiaggia di Mondello"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:15
+msgid "La spiaggia principale si estende per diversi chilometri e offre:"
+msgstr "La spiaggia principale si estende per diversi chilometri e offre:"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:16
+msgid "sabbia fine e chiara"
+msgstr "sabbia fine e chiara"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:17
+msgid "acqua bassa e poco profonda, ideale per le famiglie"
+msgstr "acqua bassa e poco profonda, ideale per le famiglie"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:18
+msgid "numerosi locali sulla spiaggia (chiringuitos)"
+msgstr "numerosi locali sulla spiaggia (chiringuitos)"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:19
+msgid "possibilità di praticare sport acquatici"
+msgstr "possibilità di praticare sport acquatici"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:21
+msgid "Altre spiagge"
+msgstr "Altre spiagge"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:23
+msgid "**Spiaggia di Porto** - a sud della spiaggia principale"
+msgstr "**Spiaggia di Porto** - a sud della spiaggia principale"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:24
+msgid "**Cala Bianca** - spiaggia nascosta e meno affollata"
+msgstr "**Cala Bianca** - spiaggia nascosta e meno affollata"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:26
+msgid "Sport acquatici"
+msgstr "Sport acquatici"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:28
+msgid "Windsurfen"
+msgstr "Windsurfen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:29
+msgid "Kitesurfen"
+msgstr "Kitesurfen"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:30
+msgid "Schnorcheln"
+msgstr "Schnorcheln"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:31
+msgid "Bootstouren"
+msgstr "Bootstouren"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:35
+msgid "La cucina di Mondello è caratterizzata da frutti di mare freschi."
+msgstr "La cucina di Mondello è caratterizzata da frutti di mare freschi."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:37
+msgid "**Pasta al Riccio di Mare** - Pasta mit Seeigel"
+msgstr "**Pasta al Riccio di Mare** - Pasta mit Seeigel"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:38
+msgid "**Fritto di Pesce** - gemischte Fischspezialitäten"
+msgstr "**Fritto di Pesce** - gemischte Fischspezialitäten"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:39
+msgid "**Orata alla Griglia** - gegrillte Dorade"
+msgstr "**Orata alla Griglia** - gegrillte Dorade"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:44
+msgid "**Periodo migliore:** giugno-settembre"
+msgstr "**Periodo migliore:** giugno-settembre"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/mondello.md:45
+msgid "**Pernottamento:** piccoli hotel e case vacanza"
+msgstr "**Pernottamento:** piccoli hotel e case vacanza"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/porto-empedocle.md:1
+msgid "Porto Empedocle"
+msgstr "Porto Empedocle"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/porto-empedocle.md:3
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/sciacca.md:3
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/weitere_orte.md:3
+msgid "Ulteriori informazioni saranno disponibili prossimamente."
+msgstr "Ulteriori informazioni saranno disponibili prossimamente."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/sciacca.md:1
+msgid "Sciacca"
+msgstr "Sciacca"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/agrigento/weitere_orte.md:1
+msgid "Altri luoghi nella provincia di Agrigento"
+msgstr "Other places in the province of Agrigento"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/caltanissetta/index.rst:2
+msgid "Caltanissetta"
+msgstr "Caltanissetta"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/caltanissetta/index.rst:4
+msgid "La provincia di Caltanissetta si trova in Sicilia."
+msgstr "The province of Caltanissetta is located in Sicily."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/caltanissetta/index.rst:8
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/catania/index.rst:8
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/enna/index.rst:8
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/messina/index.rst:8
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/palermo/index.rst:8
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/ragusa/index.rst:8
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/siracusa/index.rst:8
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/trapani/index.rst:8
+msgid ""
+"Questa provincia sarà documentata completamente prossimamente. Ulteriori "
+"informazioni saranno disponibili a breve."
+msgstr ""
+"Questa provincia sarà documentata completamente prossimamente. Ulteriori "
+"informazioni saranno disponibili a breve."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/caltanissetta/index.rst:11
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/catania/index.rst:11
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/enna/index.rst:11
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/messina/index.rst:11
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/palermo/index.rst:11
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/ragusa/index.rst:11
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/siracusa/index.rst:11
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/trapani/index.rst:11
+msgid "Prossimamente - I contenuti saranno aggiunti."
+msgstr "Prossimamente - I contenuti saranno aggiunti."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/catania/index.rst:2
+msgid "Catania"
+msgstr "Catania"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/catania/index.rst:4
+msgid "La provincia di Catania si trova in Sicilia."
+msgstr "La provincia di Catania si trova in Sicilia."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/enna/index.rst:2
+msgid "Enna"
+msgstr "Enna"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/enna/index.rst:4
+msgid "La provincia di Enna si trova in Sicilia."
+msgstr "La provincia di Enna si trova in Sicilia."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/messina/index.rst:2
+msgid "Messina"
+msgstr "Messina"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/messina/index.rst:4
+msgid "La provincia di Messina si trova in Sicilia."
+msgstr "The province of Messina is located in Sicily."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/palermo/index.rst:2
+msgid "Palermo"
+msgstr "Palermo"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/palermo/index.rst:4
+msgid "La provincia di Palermo si trova in Sicilia."
+msgstr "La provincia di Palermo si trova in Sicilia."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/ragusa/index.rst:2
+msgid "Ragusa"
+msgstr "Ragusa"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/ragusa/index.rst:4
+msgid "La provincia di Ragusa si trova in Sicilia."
+msgstr "La provincia di Ragusa si trova in Sicilia."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/siracusa/index.rst:2
+msgid "Siracusa"
+msgstr "Syracuse"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/siracusa/index.rst:4
+msgid "La provincia di Siracusa si trova in Sicilia."
+msgstr "La provincia di Siracusa si trova in Sicilia."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/trapani/index.rst:2
+msgid "Trapani"
+msgstr "Trapani"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/provinzen/trapani/index.rst:4
+msgid "La provincia di Trapani si trova in Sicilia."
+msgstr "The province of Trapani is located in Sicily."

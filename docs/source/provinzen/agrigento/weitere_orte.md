@@ -1,3 +1,3 @@
-# Weitere Orte in Agrigento
+# Altri luoghi nella provincia di Agrigento
 
-Weitere Informationen folgen in Kürze.
+Ulteriori informazioni saranno disponibili prossimamente.

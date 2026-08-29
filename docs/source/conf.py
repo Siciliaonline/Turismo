@@ -21,14 +21,17 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-language = 'de'
+language = 'it'
+locale_dirs = ['locale/']
+gettext_compact = True
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-html_title = "Sizilien Tourismus Führer"
+html_title = "Guida turistica della Sicilia"
 html_static_path = ['_static']
+html_logo = "_static/images/Flag_of_Sicily.png"
 
 html_theme_options = {
     "navigation_depth": 3,
@@ -40,3 +43,8 @@ html_theme_options = {
 html_css_files = [
     "custom.css",
 ]
+
+html_sidebars = {
+    '**': ['language_selector.html', 'localtoc.html', 'relations.html',
+           'sourcelink.html', 'searchbox.html'],
+}

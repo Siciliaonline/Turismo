@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2026, Dein Name
+# This file is distributed under the same license as the Sizilien Tourismus
+# Führer package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sizilien Tourismus Führer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-29 16:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: en <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:20
+msgid "Province:"
+msgstr "Provinces:"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:37
+msgid "Approfondimenti:"
+msgstr "Further information:"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:4
+msgid "Guida turistica della Sicilia"
+msgstr "Sicily travel guide"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:6
+msgid ""
+"Benvenuti nella guida turistica completa dell'isola italiana della Sicilia."
+msgstr ""
+"Benvenuti nella guida turistica completa dell'isola italiana della Sicilia."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:8
+msgid ""
+"Questo sito raccoglie informazioni sulle nove province, sulle città "
+"principali, sulle attrazioni, sulla gastronomia locale e sugli eventi "
+"regionali."
+msgstr ""
+"This site collects information on the nine provinces, main cities, "
+"attractions, local gastronomy and regional events."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:13
+msgid ""
+"La documentazione è in continua evoluzione. La provincia di Agrigento è "
+"attualmente documentata in modo completo; le altre province saranno aggiunte"
+" prossimamente."
+msgstr ""
+"The documentation is constantly evolving. The province of Agrigento is "
+"currently completely documented; the other provinces will be added soon."
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:18
+msgid "Province della Sicilia"
+msgstr "Province della Sicilia"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:35
+msgid "Altre sezioni"
+msgstr "Other sections"
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:43
+msgid ":ref:`genindex`"
+msgstr ""
+
+#: ../../../Users/giuseppinamilioto/Library/Mobile
+#: Documents/com~apple~CloudDocs/Documents/Gio/Turismo/docs/source/index.rst:44
+msgid ":ref:`search`"
+msgstr ""

@@ -30,10 +30,10 @@ source .venv/bin/activate
 python -m pip install -r docs/requirements.txt
 ```
 
-HTML-Dokumentation erzeugen:
+HTML-Dokumentation erzeugen (Italienisch als Standardsprache):
 
 ```bash
-sphinx-build -b html docs/source docs/build/html
+make -C docs html-all
 ```
 
 Lokalen Webserver starten:
@@ -42,4 +42,5 @@ Lokalen Webserver starten:
 python -m http.server 8000 --directory docs/build/html
 ```
 
-Die Dokumentation ist dann unter `http://localhost:8000` erreichbar.
+Die Dokumentation ist dann unter `http://localhost:8000` erreichbar. Die
+Sprachen liegen unter `/` (Italiano), `/en/` (English) und `/de/` (Deutsch).

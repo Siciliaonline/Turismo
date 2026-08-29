@@ -1,23 +1,25 @@
 # Cattolica Eraclea
 
-Cattolica Eraclea ist ein charmantes Dorf an der Südküste von Sizilien in der Provinz Agrigento.
+Cattolica Eraclea è un borgo affascinante sulla costa meridionale della Sicilia,
+in provincia di Agrigento.
 
-## Überblick
+## Panoramica
 
-Das kleine, malerische Dorf liegt zwischen Porto Empedocle und Sciacca mit herrlichem Blick auf das Meer.
+Il piccolo borgo pittoresco si trova tra Porto Empedocle e Sciacca e offre una
+splendida vista sul mare.
 
-## Sehenswürdigkeiten
+## Attrazioni
 
-- Wunderschöne Küstenlinie mit natürlichen Buchten
-- Historische Altstadt mit engen Gassen
-- Lokale Fischerdorfkultur
+- Costa incantevole con calette naturali
+- Centro storico con vicoli stretti
+- Cultura locale legata alla pesca
 
-## Strände
+## Spiagge
 
-Das klare blaue Mittelmeer lädt zum Baden und Wassersport ein.
+Il limpido Mediterraneo invita a nuotare e praticare sport acquatici.
 
-## Praktische Informationen
+## Informazioni pratiche
 
-- **Beste Reisezeit:** Mai - Oktober
-- **Entfernung zu Agrigento:** ca. 40 km
-- **Anfahrt:** Auto oder lokale Busverbindungen
+- **Periodo migliore:** maggio - ottobre
+- **Distanza da Agrigento:** circa 40 km
+- **Come arrivare:** auto o autobus locali
